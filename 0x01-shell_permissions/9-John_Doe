@@ -1,2 +1,2 @@
 #!/vin/bash
-chmod  1777 hello
+chmod 753 hello
